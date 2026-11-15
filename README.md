@@ -5734,6 +5734,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [The Agent Forge](https://theagentforge.io) `https://theagentforge.io/mcp/public`
   [![The Agent Forge MCP connector](https://glama.ai/mcp/connectors/io.theagentforge/forge/badges/score.svg)](https://glama.ai/mcp/connectors/io.theagentforge/forge)
   🔓 - Check MCP servers, skills and packages before install: field reports, skill scans and AI trap data.
+- [TraceFind](https://tracefind.info/api) `https://api3.tracefind.info/mcp`
+  🔐 - OSINT searches on an email, username or phone number: registered accounts, profiles, messenger checks and data breaches.
 - [TweetFeed](https://tweetfeed.live) `https://mcp.tweetfeed.live/`
   [![TweetFeed MCP connector](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.0xDanielLopez/tweetfeed)
   🔓 - IOCs (URLs, domains, IPs, hashes) shared on X by the security community: lookups, tags, trends, campaigns.
